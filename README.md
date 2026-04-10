@@ -1,4 +1,4 @@
-# Synent-Task1-Datacleaning-Olatunji-Ayomide
+# synent-task1-datacleaning-olatunji-ayomide
 # Titanic Data Cleaning & Preprocessing
 
 # Problem Statement
